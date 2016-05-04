@@ -129,6 +129,8 @@ public class Tarihekrani extends Activity {
     //BURADAN itibaren hata veriyor
 
         final Cursor c = null;
+        
+        //buradaki db nin rengi soluk!!!
         final SQLiteDatabase db;
 
     btn9.setOnClickListener(new View.OnClickListener() {
